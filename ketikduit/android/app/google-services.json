@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994830583262",
+    "project_id": "ketikduit-f6dbd",
+    "storage_bucket": "ketikduit-f6dbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994830583262:android:a74bc0bf72374c3ae1c94f",
+        "android_client_info": {
+          "package_name": "com.ketikduit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9OOnDLui7MV6WB_yawCM8qF5C47zW5RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
